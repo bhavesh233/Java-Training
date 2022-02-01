@@ -1,0 +1,15 @@
+
+W
+java:S2209"5Change this instance-reference to a static reference.(­çÿÌøÿÿÿÿ8»®æ¤ë/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(çÌÍíşÿÿÿÿ8ªßè¤ë/
+W
+java:S2209"5Change this instance-reference to a static reference.(“¿ì²üÿÿÿÿ8ôç¤ë/
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(¦ô­8áÏÑ¤ë/
+R
+java:S2209"5Change this instance-reference to a static reference.(Àëå8í”ã¤ë/
+W	java:S125"<This block of commented-out lines of code should be removed.(¡ğùb8º´Ş¤ë/
+W
+java:S2209"5Change this instance-reference to a static reference.(çıÖıøÿÿÿÿ8ïŸÔ¤ë/
+W
+java:S2209"5Change this instance-reference to a static reference.(¨½ˆÊşÿÿÿÿ8»®æ¤ë/

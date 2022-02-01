@@ -1,0 +1,38 @@
+
+r
+java:S1192?"UDefine a constant instead of duplicating this literal "Please enter value 1" 4 times.(êô÷‡8›£”ë/
+O
+java:S1199>"-Extract this nested code block into a method.(‡’ã‡ıÿÿÿÿ8‘†€ë/
+h	java:S128N"LEnd this switch case with an unconditional break, return or throw statement.(®ÀÏ´8È‰ë/
+U	java:S106?"9Replace this use of System.out or System.err by a logger.(êô÷‡8¶½’ë/
+m	java:S128F"LEnd this switch case with an unconditional break, return or throw statement.(„™´àøÿÿÿÿ8È‰ë/
+U	java:S106\"9Replace this use of System.out or System.err by a logger.(©¢À¥8È‰ë/
+J
+java:S1199N"-Extract this nested code block into a method.(®ÀÏ´8È‰ë/
+U	java:S106Q"9Replace this use of System.out or System.err by a logger.(‘©É8›£”ë/
+O
+java:S1199F"-Extract this nested code block into a method.(„™´àøÿÿÿÿ8¡û‡ë/
+`
+java:S1610"CConvert the abstract class "ArithmeticOperation" into an interface.(ò™È€8Íğãœë/
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(ôÓ¦şÿÿÿÿ8ëêŒë/
+U	java:S106G"9Replace this use of System.out or System.err by a logger.(êô÷‡8Âú“ë/
+U	java:S106T"9Replace this use of System.out or System.err by a logger.(©¢À¥8È‰ë/
+U	java:S106I"9Replace this use of System.out or System.err by a logger.(‘©É8Âú“ë/
+U	java:S106A"9Replace this use of System.out or System.err by a logger.(‘©É8äÃ“ë/
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(Èôˆƒüÿÿÿÿ8Ğ±ë/
+O
+java:S1199V"-Extract this nested code block into a method.(çã¹¨ùÿÿÿÿ8È‰ë/
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ãøœØ8òçœë/
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(Áè‚æ8…öë/
+r
+java:S1192A"UDefine a constant instead of duplicating this literal "Please enter value 2" 4 times.(‘©É8›£”ë/
+m	java:S128>"LEnd this switch case with an unconditional break, return or throw statement.(‡’ã‡ıÿÿÿÿ8¡û‡ë/
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(°¨ƒÏıÿÿÿÿ8Ğ±ë/
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(²ã¦¨ùÿÿÿÿ8Ğ±ë/
+>	java:S131=""Add a default case to this switch.(ŸÂœ·8‘†€ë/
+U	java:S106D"9Replace this use of System.out or System.err by a logger.(©¢À¥8¯ä‚ë/
+U	java:S106L"9Replace this use of System.out or System.err by a logger.(©¢À¥8¡û‡ë/
+U	java:S106O"9Replace this use of System.out or System.err by a logger.(êô÷‡8›£”ë/
+U	java:S106W"9Replace this use of System.out or System.err by a logger.(êô÷‡8ËÂ”ë/
+U	java:S106Y"9Replace this use of System.out or System.err by a logger.(‘©É8ËÂ”ë/
