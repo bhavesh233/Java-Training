@@ -1,3 +1,5 @@
 
-V
-java:S2094"BRemove this empty class, write its code or make it an "interface".(‡·L
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(ÅÅÃ­8—ñÜ›ë/
+U
+java:S1197"8Move the array designator from the variable to the type.(ªÚØ‡8„¼Û›ë/
+U	java:S106""9Replace this use of System.out or System.err by a logger.(™ú‘8„¼Û›ë/

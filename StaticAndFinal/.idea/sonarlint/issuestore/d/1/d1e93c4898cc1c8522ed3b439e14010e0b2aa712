@@ -1,0 +1,12 @@
+
+i	java:S116"MRename this field "MI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷¯¾Ò8÷èù¤ë/
+j	java:S116"NRename this field "MAX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾º™®8ëõ¤ë/
+>
+java:S1170"!Make this final field static too.(¾º™®8ëõ¤ë/
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(Ù¿éûÿÿÿÿ8È—‡¥ë/
+{
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8œù¤ë/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ö¹§Å8ôœŠ¥ë/
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Šİ¡ıÿÿÿÿ8Çüı¤ë/
+i	java:S116"NRename this field "MIN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³‹Ÿ(8ëõ¤ë/
