@@ -1,0 +1,14 @@
+
+e
+java:S2276
+"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(¤ù»ÿÿÿÿÿ8ˆ´±òë/
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Ç¬p8˜ëòë/
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ıÄ©Øüÿÿÿÿ8€¶òë/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(çºü÷şÿÿÿÿ8€¶òë/
+E	java:S108")Either remove or fill this block of code.(”ı¾8 õ§òë/
+a
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¿Ç¬p8ˆ´±òë/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÀÖÙŞûÿÿÿÿ8¼ã…òë/
+W
+java:S1161"":Add the "@Override" annotation above this method signature(“–ış8Š€óñë/

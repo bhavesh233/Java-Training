@@ -1,0 +1,11 @@
+
+U
+java:S4973"9Use the "equals" method if value comparison was intended.(ŠÙèp8ò×€úë/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(œÃÉĞ8ò×€úë/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(™°©™8÷§ôùë/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(çÙÚ±8‘ÄŠúë/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ŠÙèp8ò×€úë/
+D
+java:S1481
+"'Remove this unused "m4" local variable.(—²Œ”8Âñ„úë/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(µïÚ8÷ûúë/
