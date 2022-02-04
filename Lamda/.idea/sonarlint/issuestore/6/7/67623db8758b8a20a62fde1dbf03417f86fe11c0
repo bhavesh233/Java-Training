@@ -1,0 +1,10 @@
+
+>
+java:S1125"(Remove the literal "true" boolean value.(ÄÊÓ¯
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÀØ§½øÿÿÿÿ
+h
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(½ÿç
+>
+java:S1125"(Remove the literal "true" boolean value.(ÄÊÓ¯
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÓŠË¸ûÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(©´€¯

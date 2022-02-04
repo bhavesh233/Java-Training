@@ -13,7 +13,6 @@ public class LamdaClass {
 
     public static void main(String[] args) {
 
-
         CheckString ml = LamdaClass::staticBetterString;
 
         System.out.println(ml.betterString("hcccello","Bhssasaavesh"));
