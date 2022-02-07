@@ -1,0 +1,21 @@
+
+Q
+java:S3740 "/Provide the parametrized type for this generic.(¼îŒşûÿÿÿÿ8Äİô£ì/
+Q
+java:S3740""/Provide the parametrized type for this generic.(ÍÅÖ¸ùÿÿÿÿ8Äİô£ì/
+I
+java:S1481""'Remove this unused "t4" local variable.(ÍÅÖ¸ùÿÿÿÿ8Ôæû£ì/
+>
+java:S1116"Remove this empty statement.(¼Á¹ıÿÿÿÿ8©÷£ì/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¬­Ğ®8Äİô£ì/
+m	java:S116	"LRename this field "A" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ßÂöùÿÿÿÿ8Äİô£ì/
+Q
+java:S3740!"/Provide the parametrized type for this generic.(²¯ãÑùÿÿÿÿ8Äİô£ì/
+I
+java:S1481 "'Remove this unused "t2" local variable.(¼îŒşûÿÿÿÿ8Ôæû£ì/
+9
+java:S1116"Remove this empty statement.(‘ù·¾8Âºø£ì/
+Z
+java:S1197	"8Move the array designator from the variable to the type.(‘ßÂöùÿÿÿÿ8Äİô£ì/
+Q
+java:S3740 "/Provide the parametrized type for this generic.(¼îŒşûÿÿÿÿ8Äİô£ì/

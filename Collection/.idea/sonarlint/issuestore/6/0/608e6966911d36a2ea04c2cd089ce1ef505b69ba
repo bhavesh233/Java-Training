@@ -1,0 +1,7 @@
+
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(â«ãƒşÿÿÿÿ8‚´Ïœí/
+L
+java:S1659"*Declare "phone_number" on a separate line.(’ş¤¶ûÿÿÿÿ8é¨šœí/
+x	java:S116"WRename this field "phone_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ş¤¶ûÿÿÿÿ8é¨šœí/
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(ôû”üÿÿÿÿ8åÒœí/
+m	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ–„ï8åÉšœí/

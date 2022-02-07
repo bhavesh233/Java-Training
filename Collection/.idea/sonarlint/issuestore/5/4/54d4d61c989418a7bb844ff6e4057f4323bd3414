@@ -1,0 +1,11 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(Íàş8áª¾Æì/
+]	java:S125:"<This block of commented-out lines of code should be removed.(—Ûóäûÿÿÿÿ8Æ‚Æì/
+]	java:S125("<This block of commented-out lines of code should be removed.(¾Ş©‰øÿÿÿÿ8“ò»Æì/
+v
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(ßÚú8Æ‚Æì/
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(ëöòÁ8Æ‚Æì/
+]	java:S125F"<This block of commented-out lines of code should be removed.(ŠÙÖ™şÿÿÿÿ8Æ‚Æì/
+N
+java:S2175"1A "ArrayList<Integer>" cannot contain a "String".(ûıõ‹8 «ÀÆì/

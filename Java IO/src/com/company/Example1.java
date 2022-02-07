@@ -25,7 +25,7 @@ public class Example1 {
 
             int count=0;
             int numberCount=0;
-            String[] minWord=new String[10];
+            String[] minWord=new String[7];
 
             int minWorldLength=0;
             for (int j=0;j<arrOfStr.length;j++){

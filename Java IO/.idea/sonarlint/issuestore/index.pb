@@ -9,3 +9,5 @@ P
  src/com/company/DistnicWord.java,f/e/febf5846ade16b83860e11bd5f7a6b51c23927b2
 M
 src/com/company/Example1.java,9/0/907e682b29dab70a267af3177631b87068a2d41b
+N
+src/com/company/WordStart.java,2/d/2d3f43d9b0890ff7083078d6d5bc539fdefcf1fc

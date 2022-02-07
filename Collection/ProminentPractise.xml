@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Studentinfo>
+    <Details>
+        <TraineeId>101</TraineeId>
+        <TraineeName>ABC</TraineeName>
+        <TraineeAddress>Rajkot</TraineeAddress>
+        <TraineeDOB>04/08/2010</TraineeDOB>
+        <TraineeJoiningDate>04/01/2015</TraineeJoiningDate>
+        <TraineeAge>10</TraineeAge>
+    </Details>
+    <Details>
+        <TraineeId>102</TraineeId>
+        <TraineeName>ABCD</TraineeName>
+        <TraineeAddress>Rajkot</TraineeAddress>
+        <TraineeDOB>04/08/2010</TraineeDOB>
+        <TraineeJoiningDate>04/01/2015</TraineeJoiningDate>
+        <TraineeAge>12</TraineeAge>
+    </Details>
+    <Details>
+        <TraineeId>103</TraineeId>
+        <TraineeName>ABCDE</TraineeName>
+        <TraineeAddress>Rajkot</TraineeAddress>
+        <TraineeDOB>04/08/2010</TraineeDOB>
+        <TraineeJoiningDate>04/01/2015</TraineeJoiningDate>
+        <TraineeAge>13</TraineeAge>
+    </Details>
+    <Details>
+        <TraineeId>104</TraineeId>
+        <TraineeName>ABCDEF</TraineeName>
+        <TraineeAddress>Rajkot</TraineeAddress>
+        <TraineeDOB>04/08/2010</TraineeDOB>
+        <TraineeJoiningDate>04/01/2015</TraineeJoiningDate>
+        <TraineeAge>14</TraineeAge>
+    </Details>
+    <Details>
+        <TraineeId>105</TraineeId>
+        <TraineeName>ABCDEFG</TraineeName>
+        <TraineeAddress>Rajkot</TraineeAddress>
+        <TraineeDOB>04/08/2010</TraineeDOB>
+        <TraineeJoiningDate>04/01/2015</TraineeJoiningDate>
+        <TraineeAge>15</TraineeAge>
+    </Details>
+</Studentinfo>

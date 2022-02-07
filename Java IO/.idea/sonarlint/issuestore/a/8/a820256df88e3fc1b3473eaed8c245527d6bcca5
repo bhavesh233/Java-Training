@@ -1,10 +1,10 @@
 
-Z	java:S106)"9Replace this use of System.out or System.err by a logger.(œÏì±ùÿÿÿÿ8·×´ì/
-U
-java:S1197!"8Move the array designator from the variable to the type.(¿¨ì¼8‘„¸œì/
+X	java:S125"<This block of commented-out lines of code should be removed.(ï¬Óı8“†µì/
 ^
 java:S1075"ARefactor your code to get this URI from a customizable parameter.(Ñ¼ü²8€÷Ÿœì/
 T	java:S106#"9Replace this use of System.out or System.err by a logger.(ùø¼8Ó…¹œì/
 Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÇÃ§åşÿÿÿÿ8íÙ©œì/
+U
+java:S1197!"8Move the array designator from the variable to the type.(¿¨ì¼8‘„¸œì/
 Z	java:S106+"9Replace this use of System.out or System.err by a logger.(šÜóéüÿÿÿÿ8·×´ì/
-X	java:S125"<This block of commented-out lines of code should be removed.(ï¬Óı8“†µì/
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(œÏì±ùÿÿÿÿ8·×´ì/

@@ -1,0 +1,29 @@
+
+I
+src/com/company/Main.java,4/a/4a831b10439099d44774d0ccc387e808deffaeab
+O
+src/com/execrises/Example1.java,9/c/9caa91974abbb9d9e9fdf986d248e2ec39ea25e2
+P
+ src/com/company/ArrayDeques.java,a/c/ac2c1e5d4720ab99157caa4d031bb1c3e966a5c1
+U
+%src/com/company/ArrayListExample.java,5/4/54d4d61c989418a7bb844ff6e4057f4323bd3414
+O
+src/com/execrises/Example2.java,c/2/c29aec9d1b4eee99d17c58217cea960e29daa4dc
+O
+src/com/execrises/Example3.java,3/d/3d4b5e9032e48358dcefcedabad8b851913cc56e
+O
+src/com/execrises/Example4.java,a/3/a35decef27e25bf7c7ebbf795797561bc907c60d
+O
+src/com/execrises/Example5.java,d/d/dd94c70e5fb9e3cac94797e1f1abbd2137a63e07
+E
+ProminentPractise.xml,0/1/0164a3a1bf347bc253356cc1c009e59d58411044
+O
+src/com/execrises/Example6.java,2/d/2d8e65a74d348bb7af4e45487e4d7271045e68ae
+;
+readXml.xml,8/0/8055cb78d5662937ef28011d59fa58f7fa8ca7dd
+O
+src/com/execrises/Example8.java,c/a/cabbe0e05a7bb0313d055f471a8c68113d5209e8
+O
+src/com/execrises/Example9.java,6/0/608e6966911d36a2ea04c2cd089ce1ef505b69ba
+P
+ src/com/execrises/Example91.java,4/a/4a59c567f28d7551f0db2748d57f4c4235e87982

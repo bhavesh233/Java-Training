@@ -1,0 +1,23 @@
+
+r	java:S116"VRename this field "TraineeName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ó¶Ø8ÁÎ·“í/
+v	java:S116"URename this field "TraineeAge" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–›æ€ûÿÿÿÿ8ÁÎ·“í/
+E
+java:S1659"(Declare "TraineeDOB" on a separate line.(­ó¶Ø8ÁÎ·“í/
+y	java:S116"]Rename this field "TraineeJoiningDate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ó¶Ø8ÁÎ·“í/
+T	java:S106Z"9Replace this use of System.out or System.err by a logger.(«Ã¥8Ñ†¶“í/
+J
+java:S1659"(Declare "TraineeAge" on a separate line.(–›æ€ûÿÿÿÿ8ÁÎ·“í/
+Z	java:S106q"9Replace this use of System.out or System.err by a logger.(Â»ƒçùÿÿÿÿ8Ñ†¶“í/
+M
+java:S1659"0Declare "TraineeJoiningDate" on a separate line.(­ó¶Ø8ÁÎ·“í/
+u	java:S116"YRename this field "TraineeAddress" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ó¶Ø8ÁÎ·“í/
+U
+java:S2755V"3Disable access to external entities in XML parsing.(ƒ”±êùÿÿÿÿ8Ñ†¶“í/
+q	java:S116"URename this field "TraineeDOB" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ó¶Ø8ÁÎ·“í/
+[
+java:S2130b"9Use "Integer.parseInt" for this string-to-int conversion.(«ÕÆ³ÿÿÿÿÿ8Ñ†¶“í/
+I
+java:S1659",Declare "TraineeAddress" on a separate line.(­ó¶Ø8ÁÎ·“í/
+V
+java:S2130a"9Use "Integer.parseInt" for this string-to-int conversion.(â±Á¥8Ñ†¶“í/
+u	java:S116"TRename this field "TraineeId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–›æ€ûÿÿÿÿ8ÁÎ·“í/

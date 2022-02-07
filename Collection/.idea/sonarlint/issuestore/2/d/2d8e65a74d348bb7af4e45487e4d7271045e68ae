@@ -1,0 +1,39 @@
+
+X
+java:S1141ˆ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8äøˆ“í/
+i
+java:S1192 "KDefine a constant instead of duplicating this literal "04/01/2015" 5 times.(¼Êªô8äøˆ“í/
+J
+java:S1659"(Declare "TraineeAge" on a separate line.(–›æ€ûÿÿÿÿ8äøˆ“í/
+E
+java:S1659"(Declare "TraineeDOB" on a separate line.(­ó¶Ø8äøˆ“í/
+q	java:S116"URename this field "TraineeDOB" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ó¶Ø8äøˆ“í/
+m	java:S117w"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Óæë8äøˆ“í/
+M
+java:S1659"0Declare "TraineeJoiningDate" on a separate line.(­ó¶Ø8äøˆ“í/
+Œ
+java:S1319S"oThe type of the "list" object should be an interface such as "List" rather than the implementation "ArrayList".(èÒÜ¾8äøˆ“í/
+I
+java:S1659",Declare "TraineeAddress" on a separate line.(­ó¶Ø8äøˆ“í/
+e
+java:S1192 "GDefine a constant instead of duplicating this literal "Rajkot" 5 times.(¼Êªô8äøˆ“í/
+m	java:S117s"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò…¸Ÿ8äøˆ“í/
+u	java:S116"YRename this field "TraineeAddress" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ó¶Ø8äøˆ“í/
+r	java:S116"VRename this field "TraineeName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ó¶Ø8äøˆ“í/
+[	java:S106“"9Replace this use of System.out or System.err by a logger.(±ó‹úüÿÿÿÿ8äøˆ“í/
+m	java:S117`"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿŞ8äøˆ“í/
+[	java:S106–"9Replace this use of System.out or System.err by a logger.(Ïúªœÿÿÿÿÿ8äøˆ“í/
+P
+java:S2755~"3Disable access to external entities in XML parsing.(‰ïÄ¥8äøˆ“í/
+r	java:S117k"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢­™©ıÿÿÿÿ8äøˆ“í/
+i
+java:S1192 "KDefine a constant instead of duplicating this literal "04/08/2010" 5 times.(¼Êªô8äøˆ“í/
+m	java:S117o"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üëªû8äøˆ“í/
+P
+java:S2755W"3Disable access to external entities in XML parsing.(îŒ—Å8äøˆ“í/
+u	java:S116"TRename this field "TraineeId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–›æ€ûÿÿÿÿ8äøˆ“í/
+[	java:S106®"9Replace this use of System.out or System.err by a logger.(ßì©—úÿÿÿÿ8äøˆ“í/
+m	java:S117c"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê½ŒÚ8äøˆ“í/
+m	java:S117g"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªáˆÕ8äøˆ“í/
+y	java:S116"]Rename this field "TraineeJoiningDate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ó¶Ø8äøˆ“í/
+v	java:S116"URename this field "TraineeAge" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–›æ€ûÿÿÿÿ8äøˆ“í/
