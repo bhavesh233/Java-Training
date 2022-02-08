@@ -1,0 +1,20 @@
+
+e
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ê‘âµ8©ÊÌÁí/
+U	java:S106^"9Replace this use of System.out or System.err by a logger.(¤ÍÚü8äºıÁí/
+U	java:S106]"9Replace this use of System.out or System.err by a logger.(Ğ çœ8äºıÁí/
+Z	java:S106Y"9Replace this use of System.out or System.err by a logger.(ë¥Šüüÿÿÿÿ8äºıÁí/
+]	java:S125"<This block of commented-out lines of code should be removed.(«˜½¡ûÿÿÿÿ8ÈìÙÁí/
+X	java:S125>"<This block of commented-out lines of code should be removed.(„‘œİ8ÀıÁí/
+d
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(Êë‹8äºıÁí/
+Z	java:S106Z"9Replace this use of System.out or System.err by a logger.(Ï‡‰ùÿÿÿÿÿ8äºıÁí/
+Z	java:S106["9Replace this use of System.out or System.err by a logger.(òí«Üşÿÿÿÿ8äºıÁí/
+U	java:S106\"9Replace this use of System.out or System.err by a logger.(Ÿ×¾Œ8äºıÁí/
+O
+java:S4925"-Remove this "Class.forName()", it is useless.(õ†¨Äùÿÿÿÿ8©ÊÌÁí/
+i
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(ìï‡Àûÿÿÿÿ8©ÊÌÁí/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÚãÙ‰8©ÊÌÁí/
+]	java:S125*"<This block of commented-out lines of code should be removed.(“°íÅúÿÿÿÿ8ßòóÁí/
+Z	java:S106_"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8äºıÁí/
