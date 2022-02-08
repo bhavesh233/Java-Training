@@ -1,0 +1,11 @@
+
+e
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ê‘âµ8¿µÏ¿í/
+O
+java:S4925"-Remove this "Class.forName()", it is useless.(õ†¨Äùÿÿÿÿ8¿µÏ¿í/
+]	java:S125"<This block of commented-out lines of code should be removed.(â’€þûÿÿÿÿ8ìýžÁí/
+i
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(ìï‡Àûÿÿÿÿ8¿µÏ¿í/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÚãÙ‰8¿µÏ¿í/
+J
+java:S1481"(Remove this unused "sql" local variable.(—Üûÿÿÿÿ8·âþÄí/

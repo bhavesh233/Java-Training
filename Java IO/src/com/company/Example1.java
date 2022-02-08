@@ -1,6 +1,7 @@
 package com.company;
 
 import java.io.FileInputStream;
+import java.util.stream.IntStream;
 
 public class Example1 {
 
@@ -36,7 +37,6 @@ public class Example1 {
                 }
                 boolean flag =true;
                try{
-                Integer.valueOf(arrOfStr[j]);
                 flag =true;
                }catch (Exception e){
                    flag=false;
