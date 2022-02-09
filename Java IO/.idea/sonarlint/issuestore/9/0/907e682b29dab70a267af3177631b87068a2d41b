@@ -1,7 +1,10 @@
 
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÇÃ§åþÿÿÿÿ8²›¡Ÿì/
 ^
-java:S1075	"ARefactor your code to get this URI from a customizable parameter.(Ñ¼ü²8²›¡Ÿì/
+java:S1075
+"ARefactor your code to get this URI from a customizable parameter.(Ñ¼ü²8²›¡Ÿì/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÇÃ§åþÿÿÿÿ8²›¡Ÿì/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8ð„ËŸì/
 Z	java:S1064"9Replace this use of System.out or System.err by a logger.(ëïÑÞúÿÿÿÿ8áƒ´ ì/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8ð„ËŸì/
 Z	java:S1067"9Replace this use of System.out or System.err by a logger.(ž¶Ç¨ÿÿÿÿÿ8áƒ´ ì/
+f
+java:S2583,"DChange this condition so that it does not always evaluate to "false"(´Ñë§þÿÿÿÿ8‚¬©Êí/

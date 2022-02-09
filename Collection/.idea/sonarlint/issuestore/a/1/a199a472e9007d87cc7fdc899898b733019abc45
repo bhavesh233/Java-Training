@@ -1,0 +1,45 @@
+
+Z	java:S106f"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8‹Â·æí/
+{
+java:S2293)"YReplace the type specification in this constructor call with the diamond operator ("<>").(Öã›“şÿÿÿÿ8ÿÎåí/
+Z	java:S106i"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8§óØæí/
+{
+java:S2293("YReplace the type specification in this constructor call with the diamond operator ("<>").(¢’¸éıÿÿÿÿ8¨ÅÎåí/
+{
+java:S2293@"YReplace the type specification in this constructor call with the diamond operator ("<>").(ù«™Òıÿÿÿÿ8ıßååí/
+Z	java:S106z"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Ûíçí/
+Z	java:S106x"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8²½áçí/
+^	java:S125“"<This block of commented-out lines of code should be removed.(Ì öçúÿÿÿÿ8´¶ÿæí/
+Z	java:S106l"9Replace this use of System.out or System.err by a logger.(™Ÿ™íıÿÿÿÿ8é±†ëí/
+[	java:S106Œ"9Replace this use of System.out or System.err by a logger.(šæŞƒúÿÿÿÿ8—µ‰èí/
+{
+java:S2293?"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹¶¹Üùÿÿÿÿ8¦·ååí/
+Z	java:S106_"9Replace this use of System.out or System.err by a logger.(‘Á¾øÿÿÿÿ8Şø‰æí/
+[
+java:S4973"9Use the "equals" method if value comparison was intended.(øŞå×øÿÿÿÿ8Šó²çí/
+U	java:S106a"9Replace this use of System.out or System.err by a logger.(÷ì³Ï8ï¦Ãæí/
+U	java:S106s"9Replace this use of System.out or System.err by a logger.(÷ì³Ï8²½áçí/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æ£ô–
+[	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8‚å‡èí/
+g
+java:S1192a"JDefine a constant instead of duplicating this literal " courses " 3 times.(÷ì³Ï8—µ‰èí/
+Z	java:S106q"9Replace this use of System.out or System.err by a logger.(‘Á¾øÿÿÿÿ8²½áçí/
+Z	java:S106u"9Replace this use of System.out or System.err by a logger.(šæŞƒúÿÿÿÿ8²½áçí/
+U	java:S106}"9Replace this use of System.out or System.err by a logger.(¦ÿ°·8—´Šëí/
+V	java:S106Š"9Replace this use of System.out or System.err by a logger.(÷ì³Ï8—µ‰èí/
+Z	java:S106\"9Replace this use of System.out or System.err by a logger.(™©ä‘şÿÿÿÿ8Œëí/
+[	java:S106…"9Replace this use of System.out or System.err by a logger.(ß¯€şøÿÿÿÿ8Ú˜óçí/
+[	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(‘Á¾øÿÿÿÿ8—µ‰èí/
+p
+java:S1192_"NDefine a constant instead of duplicating this literal "college Name " 3 times.(‘Á¾øÿÿÿÿ8—µ‰èí/
+v
+java:S2293S"YReplace the type specification in this constructor call with the diamond operator ("<>").(ò°˜İ8»ñıåí/
+L
+java:S3740„"/Provide the parametrized type for this generic.(ãÁÇ8•Éıçí/
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Çµí‘8—µ‰èí/
+v
+java:S2293*"YReplace the type specification in this constructor call with the diamond operator ("<>").(ã»İ§8ÿÎåí/
+Z	java:S106c"9Replace this use of System.out or System.err by a logger.(šæŞƒúÿÿÿÿ8ôñÊæí/
+{
+java:S2293A"YReplace the type specification in this constructor call with the diamond operator ("<>").(’°¯…øÿÿÿÿ8ıßååí/

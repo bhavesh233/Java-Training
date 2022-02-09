@@ -1,0 +1,49 @@
+
+J
+java:S1659	"(Declare "TraineeAge" on a separate line.(–›ζ€ϋÿÿÿÿ8–λιν/
+F
+java:S1659
+")Declare "TraineeName" on a separate line.(ªª®τ8–λιν/
+U	java:S106n"9Replace this use of System.out or System.err by a logger.(κσΎ8–λιν/
+v	java:S116	"URename this field "TraineeAge" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–›ζ€ϋÿÿÿÿ8–λιν/
+]	java:S125L"<This block of commented-out lines of code should be removed.(ΖΑΦζωÿÿÿÿ8τ’­κν/
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(ªΣΌαώÿÿÿÿ8–λιν/
+Z	java:S106i"9Replace this use of System.out or System.err by a logger.(ªΣΌαώÿÿÿÿ8–λιν/
+Z	java:S106o"9Replace this use of System.out or System.err by a logger.(ªΣΌαώÿÿÿÿ8–λιν/
+Z	java:S106y"9Replace this use of System.out or System.err by a logger.(θΙί—όÿÿÿÿ8–λιν/
+Z	java:S106["9Replace this use of System.out or System.err by a logger.(ªΣΌαώÿÿÿÿ8–λιν/
+V	java:S106‡"9Replace this use of System.out or System.err by a logger.(“Πυ8–λιν/
+S
+java:S2629g"7Use the built-in formatting to construct this argument.(Ρδ…8ω€Ϊκν/
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(ªΣΌαώÿÿÿÿ8Πακν/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(θ£Β•8–λιν/
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(κσΎ8–λιν/
+Z	java:S106|"9Replace this use of System.out or System.err by a logger.(ªΣΌαώÿÿÿÿ8–λιν/
+r	java:S116
+"VRename this field "TraineeName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªª®τ8–λιν/
+Q
+java:S3740W"/Provide the parametrized type for this generic.(‰ι¥ϊÿÿÿÿ8–λιν/
+|
+java:S2293€"YReplace the type specification in this constructor call with the diamond operator ("<>").(£‰® ωÿÿÿÿ8–λιν/
+Φ
+java:S1598"³This file "Example5.java" should be located in "com/exe" directory, not in "/home/pp-7/Bhavesh/JavaTraning/MavenProject/src/main/java/com.exe"(Do not use dots in directory names).(Β…±ϊÿÿÿÿ8–λιν/
+u
+java:S1602b"SRemove useless curly braces around statement and then remove useless return keyword(ÒΜβ–ψÿÿÿÿ8–λιν/
+Z	java:S106l"9Replace this use of System.out or System.err by a logger.(Ο¤ώÿÿÿÿ8–λιν/
+Q
+java:S3740M"/Provide the parametrized type for this generic.(…ώ·ψώÿÿÿÿ8–λιν/
+[	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(ΆΧ΅®ϊÿÿÿÿ8–λιν/
+U	java:S106†"9Replace this use of System.out or System.err by a logger.(ΨκW8–λιν/
+U	java:S106_"9Replace this use of System.out or System.err by a logger.(ƒΠ¥‚8–λιν/
+U	java:S106>"9Replace this use of System.out or System.err by a logger.(κσΎ8–λιν/
+]
+java:S3457g"AFormat specifiers should be used instead of string concatenation.(Ρδ…8ω€Ϊκν/
+Z	java:S106@"9Replace this use of System.out or System.err by a logger.(ªΣΌαώÿÿÿÿ8–λιν/
+Z	java:S106s"9Replace this use of System.out or System.err by a logger.(ÿ ΎΪψÿÿÿÿ8–λιν/
+Z	java:S106Y"9Replace this use of System.out or System.err by a logger.(ν΄β•ώÿÿÿÿ8–λιν/
+u	java:S116	"TRename this field "TraineeId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–›ζ€ϋÿÿÿÿ8–λιν/
+[	java:S106‹"9Replace this use of System.out or System.err by a logger.(³πΈϋÿÿÿÿ8–λιν/
+q	java:S116
+"URename this field "TraineeDOB" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªª®τ8–λιν/
+{
+java:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(΅‡ª•ώÿÿÿÿ8–λιν/

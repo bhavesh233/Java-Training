@@ -1,0 +1,11 @@
+
+m	java:S114."QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(–•‹8¶βεν/
+m	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿΟ¬υ8¶βεν/
+m	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿΟ¬υ8¶βεν/
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(ΏΘ–ϊÿÿÿÿ8¶βεν/
+U	java:S106F"9Replace this use of System.out or System.err by a logger.(ί’ΈΧ8¶βεν/
+U	java:S106I"9Replace this use of System.out or System.err by a logger.(‚Ώλι8¶βεν/
+Z	java:S106T"9Replace this use of System.out or System.err by a logger.(µΧΞύÿÿÿÿ8¶βεν/
+U	java:S106V"9Replace this use of System.out or System.err by a logger.(Ί¤8¶βεν/
+U	java:S106\"9Replace this use of System.out or System.err by a logger.(¬‘’8¶βεν/
+U	java:S106^"9Replace this use of System.out or System.err by a logger.(κΞρ£8¶βεν/

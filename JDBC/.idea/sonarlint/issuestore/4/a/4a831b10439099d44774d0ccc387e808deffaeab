@@ -1,10 +1,10 @@
 
 e
 java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ê‘âµ8ÖÌ½í/
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ÚãÙ‰8†¤Ó½í/
 O
 java:S4925"-Remove this "Class.forName()", it is useless.(õ†¨Äùÿÿÿÿ8³Ê½í/
-d
-java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(Êë‹8™—ñ½í/
 i
 java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(ìï‡Àûÿÿÿÿ8™—ñ½í/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÚãÙ‰8†¤Ó½í/
+d
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(Êë‹8™—ñ½í/
