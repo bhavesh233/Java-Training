@@ -1,10 +1,10 @@
 
 A
 java:S1659"$Declare "author" on a separate line.(ÜĞÑ“8õÈï’í/
-{
-java:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").(Â£ô…úÿÿÿÿ8«Âî’í/
-Z	java:S106-"9Replace this use of System.out or System.err by a logger.(¤ƒ¿Öúÿÿÿÿ8«Âî’í/
 D
 java:S1659"'Declare "publisher" on a separate line.(ÜĞÑ“8õÈï’í/
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(¤ƒ¿Öúÿÿÿÿ8«Âî’í/
 {
 java:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(‹Àêşıÿÿÿÿ8õÈï’í/
+{
+java:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").(Â£ô…úÿÿÿÿ8«Âî’í/

@@ -1,8 +1,8 @@
 
-Z	java:S106/"9Replace this use of System.out or System.err by a logger.(ˆÚ¢—ÿÿÿÿÿ8£·ƒ¨ì/
 ^
 java:S1075	"ARefactor your code to get this URI from a customizable parameter.(Ñ¼ü²8Şä§ì/
-I
-java:S1905("'Remove this unnecessary cast to "char".(Ûºôúÿÿÿÿ8Ùåò§ì/
 Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÇÃ§åşÿÿÿÿ8Şä§ì/
 Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Şä§ì/
+I
+java:S1905("'Remove this unnecessary cast to "char".(Ûºôúÿÿÿÿ8Ùåò§ì/
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(ˆÚ¢—ÿÿÿÿÿ8£·ƒ¨ì/

@@ -27,3 +27,11 @@ O
 src/com/execrises/Example9.java,6/0/608e6966911d36a2ea04c2cd089ce1ef505b69ba
 P
  src/com/execrises/Example91.java,4/a/4a59c567f28d7551f0db2748d57f4c4235e87982
+Q
+!src/com/mainExecrise/Student.java,d/a/da2c91cf9724e441d8026b55e272a1fb09f3513d
+Q
+!src/com/mainExecrise/College.java,d/1/d127df7255ab0ba8817283a4d1f3d694a6ac1b01
+P
+ src/com/mainExecrise/Course.java,9/0/906cb514c8b5d04fc3f25819c9a30de678bb93be
+N
+src/com/mainExecrise/Main.java,a/1/a199a472e9007d87cc7fdc899898b733019abc45

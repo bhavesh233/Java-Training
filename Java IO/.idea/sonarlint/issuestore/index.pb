@@ -11,3 +11,5 @@ M
 src/com/company/Example1.java,9/0/907e682b29dab70a267af3177631b87068a2d41b
 N
 src/com/company/WordStart.java,2/d/2d3f43d9b0890ff7083078d6d5bc539fdefcf1fc
+M
+src/com/company/Example3.java,d/5/d51d62e78286e147a24683e78913052e3ef2b8a8

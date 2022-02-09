@@ -18,7 +18,7 @@ public class Generic1 {
     }
 
     public static void main(String[] args) {
-//        show(new String[]{"HI","Hello"}); // it gives a error
+//      show(new String[]{"HI","Hello"}); // it gives a error
         show(new Integer[]{10,20});
         show(new Float[]{12.2f,33.43f});
     }
